@@ -36,3 +36,8 @@ poor mans beat detection for audio played through a teensy audio board.
  
  https://www.youtube.com/watch?v=E-PomXjd1eQ
  
+ 
+ I believe my inspiration and probably allot of code came from this guy:
+ https://github.com/saikoLED/TeensyLED/tree/master/Examples/TeensyLED_Audio_DMX_Master
+ so thank you :).
+ 
