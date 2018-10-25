@@ -34,4 +34,5 @@ poor mans beat detection for audio played through a teensy audio board.
  
  In arduino IDE open up serial plotter to see what is going on.
  
+ https://www.youtube.com/watch?v=E-PomXjd1eQ
  
