@@ -26,6 +26,7 @@ poor mans beat detection for audio played through a teensy audio board.
  compile audioAnalyzeDetectBeat.ino with defines for how audio is to be played (line in/mic/sd card playback)
  
  Note:
+ I don't think I implemented mid/high or if I did its dodgy.
  Comments that make sense mean that section of code was probably copied/pasted from someone else.
  Comments may not be relevant as I was constantly changing values to get what looked ok.
  This is not an example of good code. I'm a novice.
