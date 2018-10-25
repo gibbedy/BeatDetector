@@ -23,4 +23,15 @@ poor mans beat detection for audio played through a teensy audio board.
  */
  
  Teensy3.2 + Audo board.
- Run 
+ compile audioAnalyzeDetectBeat.ino with defines for how audio is to be played (line in/mic/sd card playback)
+ 
+ Note:
+ Comments that make sense mean that section of code was probably copied/pasted from someone else.
+ Comments may not be relevant as I was constantly changing values to get what looked ok.
+ This is not an example of good code. I'm a novice.
+ 
+ If you have a teensy3.2 and audio board and an sdcard and a wav file (in correct format) you could play through usb audio and test this without any other hardware.
+ 
+ In arduino IDE open up serial plotter to see what is going on.
+ 
+ 
