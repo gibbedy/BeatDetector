@@ -11,7 +11,7 @@
 
   BEAT DETECTION ALGORITHYM:
  * A running average of the magnitude of the fft signal is kept for each low/med/high bin range. 
- * The maximum magnitude of fft signal seen in the last second is updated every second (or so)
+ * The maximum magnitude of fft signal seen in the last second is updated every second
  * The differnce between average and max audio values is calculated and a beat detection threshold is set between these two values determined by a threshold factor that you can set.
  * If the current audio signal is greater than this threshold then it is a beat.
  * Retriggering of beat detection is locked out for a preset amount of time. (see variables somewhere below)
