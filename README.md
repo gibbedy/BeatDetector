@@ -5,7 +5,7 @@
   
  To use, create a BeatDetector object and pass it a pointer to an AudioAnalyzeFFT256 object created using the teensy audio library.
  Once per loop call BeatDetectorLoop().
- to determine if beat was detected just check the beatDectors objects public variables lowBeat/midBeat/highBeat 
+ To determine if beat was detected just check the beatDectors objects public variables lowBeat/midBeat/highBeat 
  
  
 
