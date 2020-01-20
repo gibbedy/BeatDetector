@@ -3,9 +3,9 @@
 
  When combined with the teensy audio libraries FFT object it detects low/med/high frequency beats in audio played.
   
- To use create a BeatDetector object passing it a pointer to an AudioAnalyzeFFT256 object created using the teensy audio library 
+ To use, create a BeatDetector object and pass it a pointer to an AudioAnalyzeFFT256 object created using the teensy audio library.
  Once per loop call BeatDetectorLoop().
- To determine if beat was detected just check objects public variables lowBeat/midBeat/highBeat 
+ to determine if beat was detected just check the beatDectors objects public variables lowBeat/midBeat/highBeat 
  
  
 
