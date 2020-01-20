@@ -1,5 +1,5 @@
 # BeatDetector
- poor mans beat detection for audio played through a teensy audio board.
+ Beat detection for audio played through a teensy audio board.
 
  When combined with the teensy audio libraries FFT object it detects low/med/high frequency beats in audio played.
   
